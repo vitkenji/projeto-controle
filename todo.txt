@@ -1,0 +1,8 @@
+- deixar o relatorio mais humano
+- remover titulos dos graficos
+- tirar algumas coisas que estão em negrito
+- verificar se precisa mesmo de todos os routh-hurwitz
+- verificar se todas as contas necessarias estão ou não
+- remover comentarios do script matlab
+- humanizar codigo matlab, pq precisa enviar
+- conferir se está tudo correto
